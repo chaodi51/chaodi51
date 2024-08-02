@@ -18,12 +18,12 @@ Thank you for your understanding.
 
 ## About Me
 
-A brief introduction about your background, skills, and interests.
+As a Senior Data Scientist in Bioinformatics with over 15 years of experience, I specialize in the development of bioinformatics methods and the analysis of multi-omics data, including genomics, epigenomics, transcriptomics, proteomics, and metabolomics. I have extensive expertise in processing both short-read (Illumina) and long-read sequencing data (PacBio, ONT), encompassing various techniques such as WGS, CLIP-seq, ATAC-seq, RNA-seq, and scRNA-seq.
 
-## Projects
+I am proficient in building robust bioinformatics pipelines and have a strong foundation in machine learning, deep learning, and large language model applications. My advanced skills in workflow languages (Snakemake, Nextflow), combined with experience in AWS and HPC computing, and package management tools like Conda and Docker, position me well to deliver production-level bioinformatics solutions.
 
-An overview of some of the projects you have worked on, with links to specific repositories.
+My work is driven by a deep understanding of biochemical mechanisms under diseases. Throughout my career, I have contributed to numerous research projects and publications, demonstrating my commitment to advancing the field of bioinformatics and improving our understanding of complex biological systems. I am dedicated to advancing solutions for disease treatment with the help of bioinformatics techniques and continuously expanding my knowledge through professional development and research.
 
 ## Contact
 
-Instructions for how to reach you, such as email or LinkedIn.
+[LinkedIn](www.linkedin.com/in/chao-di) | Email: dichao83@gmail.com | Phone: (267) 418-7265
