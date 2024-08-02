@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This GitHub repository contains a partial copy of past work and is intended solely for demonstration purposes as part of my job-seeking efforts. Please note the following:
+This GitHub repository contains a partial copy of past work and is intended solely for **demonstration purposes** as part of my job-seeking efforts. Please note the following:
 
 1. **Incomplete Repository**: The code and content in this repository represent only a portion of the original work and may not include all components, dependencies, or datasets necessary for full functionality.
 
