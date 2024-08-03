@@ -2,11 +2,11 @@
 
 ## Disclaimer
 
-This GitHub repository contains a partial copy of past work and is intended solely for **demonstration purposes** as part of my job-seeking efforts. Please note the following:
+This GitHub repository contains a partial copy of past work and is intended solely for **demonstration purposes as part of my job-seeking efforts**. Please note the following:
 
 1. **Incomplete Repository**: The code and content in this repository represent only a portion of the original work and may not include all components, dependencies, or datasets necessary for full functionality.
 
-2. **Non-Commercial Use**: This repository is not intended for commercial use or redistribution. It is shared for the purpose of showcasing my skills, experience, and coding practices.
+2. **Non-Commercial Use**: This repository is **NOT intended for commercial use or redistribution**. It is shared for the purpose of showcasing my skills, experience, and coding practices.
 
 3. **No Warranty**: The code and content are provided "as-is" without any warranties or guarantees. I am not responsible for any issues, errors, or malfunctions that may arise from using this code.
 
